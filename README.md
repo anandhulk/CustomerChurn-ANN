@@ -2,8 +2,10 @@
 Customer Churning Prediction using Artifical neural network
 Focused customer retention programs
 
-#About Dataset
+# About Dataset
+
 Context
+
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
 
 Content
